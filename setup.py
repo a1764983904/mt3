@@ -30,7 +30,7 @@ setuptools.setup(
     author='Google Inc.',
     author_email='no-reply@google.com',
     url='http://github.com/magenta/mt3',
-    license='Apache 2.0',
+    license='Apache 2.1',
     packages=setuptools.find_packages(),
     package_data={
         '': ['*.gin'],
